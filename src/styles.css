@@ -1,0 +1,25 @@
+:root {
+  color: #1f2937;
+  background-color: #f5f7fa;
+  font-family:
+    Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  margin: 0;
+  background-color: #f5f7fa;
+}
+
+.page-shell {
+  min-height: 100vh;
+}
+
+.status-panel {
+  border: 1px solid #d9e2ec;
+  border-radius: 8px;
+  background-color: #ffffff;
+  box-shadow: 0 12px 30px rgb(15 23 42 / 8%);
+}
