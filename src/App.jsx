@@ -73,9 +73,10 @@ function App() {
                   </div>
                   <div className="col-xl-8">
                     <p className="text-secondary mb-0">
-                      Die dargestellten Werte sind Beispieldaten für die Fallstudie. Eine spätere
-                      Ausbaustufe kann Berechnungsgrundlagen, Datenquellen und Vergleichskriterien
-                      detaillierter abbilden.
+                      Die Anwendung nutzt eine statische, fiktive Datengrundlage und stellt
+                      diese tabellarisch dar. Die Filterung erfolgt nach Unternehmen und Land,
+                      die Sortierung nach Unternehmen, Land und Emissionswert. Eine echte
+                      CO2-Berechnung oder Bewertung realer Unternehmen findet nicht statt.
                     </p>
                   </div>
                 </div>
@@ -89,9 +90,10 @@ function App() {
                   </div>
                   <div className="col-xl-8">
                     <p className="text-secondary mb-0">
-                      Alle Inhalte dienen ausschließlich der Umsetzung der Studienaufgabe. Die
-                      Emissionswerte sind frei erfunden und stellen keine realen Unternehmensdaten
-                      dar.
+                      Diese Anwendung ist ein Studienprojekt im Rahmen der Fallstudie. Die
+                      Emissionsdaten sind fiktiv, es werden keine realen Unternehmensdaten
+                      dargestellt. Eingaben in Filter- und Sortierfelder werden nur lokal im
+                      Browser verarbeitet und nicht gespeichert oder übertragen.
                     </p>
                   </div>
                 </div>

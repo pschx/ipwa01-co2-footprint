@@ -1,16 +1,29 @@
 # ipwa01-co2-footprint
-Fallstudie für den Kurs IPWA01-01 (Programmierung von Webanwendungsoberflächen): Responsive Webanwendung zur Darstellung, Filterung und Sortierung fiktiver CO2-Emissionsdaten.
 
-## Technisches Setup
+Responsive React-Webanwendung zur Darstellung fiktiver CO2-Emissionsdaten. Das Projekt gehört zur Fallstudie im Kurs IPWA01-01 „Programmierung von Webanwendungsoberflächen“.
 
-Das Projekt verwendet React, Vite und Bootstrap.
+## Technologien
+
+- React
+- Vite
+- Bootstrap
+
+## Funktionen
+
+- Übersicht mit fiktiven CO2-Emissionsdaten
+- Filterung nach Land und Unternehmen
+- Sortierung nach Unternehmen, Land und Emissionswert
+- Responsives Layout für Desktop, Tablet und Smartphone
+- Globales Menü und lokales Seitenmenü
+
+## Lokale Ausführung
 
 ```bash
 npm install
 npm run dev
 ```
 
-Ein Produktionsbuild kann mit folgendem Befehl erstellt werden:
+## Produktionsbuild
 
 ```bash
 npm run build
